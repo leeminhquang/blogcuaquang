@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Lê Minh Quang</title>
-    <link>/blogcuaquang/posts/</link>
+    <link>https://leeminhquang.github.io/posts/</link>
     <description>Recent content in Posts on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>©2025, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/blogcuaquang/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://leeminhquang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Fetch API và Giao tiếp với Server trong JavaScript</title>
-        <link>/blogcuaquang/posts/js-fetch-api/</link>
+        <link>https://leeminhquang.github.io/posts/js-fetch-api/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/js-fetch-api/</guid>
+        <guid>https://leeminhquang.github.io/posts/js-fetch-api/</guid>
         <description>&lt;h2 id=&#34;-1-giới-thiệu-về-fetch-api&#34;&gt;🌐 1. Giới thiệu về Fetch API&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Fetch API&lt;/strong&gt; là công cụ tích hợp sẵn trong trình duyệt giúp JavaScript &lt;strong&gt;gửi và nhận dữ liệu từ server&lt;/strong&gt; mà không cần tải lại trang.&lt;/p&gt;
 &lt;p&gt;Fetch được sử dụng phổ biến trong:&lt;/p&gt;
@@ -92,11 +92,11 @@
       
       <item>
         <title>Giới thiệu ngôn ngữ Java</title>
-        <link>/blogcuaquang/posts/java-intro/</link>
+        <link>https://leeminhquang.github.io/posts/java-intro/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/java-intro/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-intro/</guid>
         <description>&lt;h2 id=&#34;-giới-thiệu-chung&#34;&gt;🧩 Giới thiệu chung&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Java&lt;/strong&gt; là một ngôn ngữ lập trình &lt;strong&gt;đa nền tảng (cross-platform)&lt;/strong&gt;, &lt;strong&gt;hướng đối tượng (OOP)&lt;/strong&gt; và &lt;strong&gt;bảo mật cao&lt;/strong&gt;, được phát triển bởi &lt;strong&gt;Sun Microsystems&lt;/strong&gt; (nay thuộc Oracle). Java cho phép lập trình viên &lt;strong&gt;“Write Once, Run Anywhere”&lt;/strong&gt; — nghĩa là chỉ cần viết một lần, có thể chạy trên mọi hệ điều hành hỗ trợ Java Virtual Machine (JVM).&lt;/p&gt;
 &lt;hr /&gt;
@@ -134,11 +134,11 @@
       
       <item>
         <title>Hàm và Phạm vi trong JavaScript</title>
-        <link>/blogcuaquang/posts/js-functions/</link>
+        <link>https://leeminhquang.github.io/posts/js-functions/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/js-functions/</guid>
+        <guid>https://leeminhquang.github.io/posts/js-functions/</guid>
         <description>&lt;h2 id=&#34;-1-khái-niệm-về-hàm&#34;&gt;⚙️ 1. Khái niệm về hàm&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Hàm (Function)&lt;/strong&gt; là khối mã thực hiện một tác vụ cụ thể và có thể được &lt;strong&gt;tái sử dụng&lt;/strong&gt; nhiều lần.&lt;br /&gt;
 Hàm giúp mã dễ đọc, dễ bảo trì và tránh lặp lại.&lt;/p&gt;
@@ -214,11 +214,11 @@ Hàm giúp mã dễ đọc, dễ bảo trì và tránh lặp lại.&lt;/p&gt;
       
       <item>
         <title>Kế thừa và Đa hình trong Java</title>
-        <link>/blogcuaquang/posts/java-inheritance-polymorphism/</link>
+        <link>https://leeminhquang.github.io/posts/java-inheritance-polymorphism/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/java-inheritance-polymorphism/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-inheritance-polymorphism/</guid>
         <description>&lt;h2 id=&#34;-1-khái-niệm-kế-thừa-inheritance&#34;&gt;🧬 1. Khái niệm kế thừa (Inheritance)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Kế thừa&lt;/strong&gt; cho phép một lớp &lt;strong&gt;mở rộng (extend)&lt;/strong&gt; lớp khác để &lt;strong&gt;tái sử dụng mã&lt;/strong&gt; và &lt;strong&gt;mở rộng chức năng&lt;/strong&gt; mà không cần viết lại.&lt;/p&gt;
 &lt;ul&gt;
@@ -320,11 +320,11 @@ Hàm giúp mã dễ đọc, dễ bảo trì và tránh lặp lại.&lt;/p&gt;
       
       <item>
         <title>Lớp, Đối tượng và Hàm tạo trong Java</title>
-        <link>/blogcuaquang/posts/java-classes-objects/</link>
+        <link>https://leeminhquang.github.io/posts/java-classes-objects/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/java-classes-objects/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-classes-objects/</guid>
         <description>&lt;h2 id=&#34;-1-khái-niệm-lớp-class-và-đối-tượng-object&#34;&gt;🧩 1. Khái niệm Lớp (Class) và Đối tượng (Object)&lt;/h2&gt;
 &lt;p&gt;Trong &lt;strong&gt;Java&lt;/strong&gt;, mọi thứ đều xoay quanh &lt;strong&gt;class&lt;/strong&gt; và &lt;strong&gt;object&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -374,11 +374,11 @@ Hàm giúp mã dễ đọc, dễ bảo trì và tránh lặp lại.&lt;/p&gt;
       
       <item>
         <title>Tương tác với DOM trong JavaScript</title>
-        <link>/blogcuaquang/posts/js-dom/</link>
+        <link>https://leeminhquang.github.io/posts/js-dom/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/js-dom/</guid>
+        <guid>https://leeminhquang.github.io/posts/js-dom/</guid>
         <description>&lt;h2 id=&#34;-1-dom-là-gì&#34;&gt;🌐 1. DOM là gì?&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;DOM (Document Object Model)&lt;/strong&gt; là mô hình cho phép JavaScript &lt;strong&gt;truy cập và thao tác với nội dung HTML&lt;/strong&gt; của trang web.&lt;br /&gt;
 Trình duyệt tự động &lt;strong&gt;chuyển đổi mã HTML&lt;/strong&gt; thành một cây DOM (DOM tree).&lt;/p&gt;
@@ -449,11 +449,11 @@ Dựa trên ID&lt;/p&gt;</description>
       
       <item>
         <title>Xử lý bất đồng bộ với Async/Await trong JavaScript</title>
-        <link>/blogcuaquang/posts/js-async-await/</link>
+        <link>https://leeminhquang.github.io/posts/js-async-await/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/js-async-await/</guid>
+        <guid>https://leeminhquang.github.io/posts/js-async-await/</guid>
         <description>&lt;h2 id=&#34;-1-bất-đồng-bộ-là-gì&#34;&gt;⚙️ 1. Bất đồng bộ là gì?&lt;/h2&gt;
 &lt;p&gt;JavaScript là ngôn ngữ &lt;strong&gt;đơn luồng (single-threaded)&lt;/strong&gt; — nghĩa là nó chỉ xử lý &lt;strong&gt;một tác vụ tại một thời điểm&lt;/strong&gt;.&lt;br /&gt;
 Tuy nhiên, trong thực tế, ta thường cần:&lt;/p&gt;
@@ -504,11 +504,11 @@ Giải pháp là &lt;strong&gt;xử lý bất đồng bộ (asynchronous)&lt;/st
       
       <item>
         <title>Giới thiệu và cú pháp cơ bản JavaScript</title>
-        <link>/blogcuaquang/posts/js-intro/</link>
+        <link>https://leeminhquang.github.io/posts/js-intro/</link>
         <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/js-intro/</guid>
+        <guid>https://leeminhquang.github.io/posts/js-intro/</guid>
         <description>&lt;h2 id=&#34;-javascript-là-gì&#34;&gt;✨ JavaScript là gì?&lt;/h2&gt;
 &lt;p&gt;JavaScript (JS) là ngôn ngữ lập trình phía client, chạy trực tiếp trong trình duyệt để tạo website tương tác và động.&lt;br /&gt;
 Nó được sử dụng cùng &lt;strong&gt;HTML&lt;/strong&gt; và &lt;strong&gt;CSS&lt;/strong&gt; trong bộ ba công nghệ web.&lt;/p&gt;
@@ -592,11 +592,11 @@ Nó được sử dụng cùng &lt;strong&gt;HTML&lt;/strong&gt; và &lt;strong&
       
       <item>
         <title>Xử lý ngoại lệ trong Java</title>
-        <link>/blogcuaquang/posts/java-exception-handling/</link>
+        <link>https://leeminhquang.github.io/posts/java-exception-handling/</link>
         <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/java-exception-handling/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-exception-handling/</guid>
         <description>&lt;h2 id=&#34;-ngoại-lệ-là-gì&#34;&gt;⚠️ Ngoại lệ là gì?&lt;/h2&gt;
 &lt;p&gt;Ngoại lệ (Exception) là lỗi xảy ra trong quá trình chạy chương trình — ví dụ chia cho 0, truy cập mảng sai chỉ số, hoặc đọc file không tồn tại.&lt;/p&gt;
 &lt;h3 id=&#34;cấu-trúc-try-catch-finally&#34;&gt;Cấu trúc try-catch-finally&lt;/h3&gt;

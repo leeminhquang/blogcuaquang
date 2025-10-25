@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hoisting on Lê Minh Quang</title>
-    <link>/blogcuaquang/tags/hoisting/</link>
+    <link>https://leeminhquang.github.io/tags/hoisting/</link>
     <description>Recent content in Hoisting on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/blogcuaquang/tags/hoisting/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://leeminhquang.github.io/tags/hoisting/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Hàm và Phạm vi trong JavaScript</title>
-        <link>/blogcuaquang/posts/js-functions/</link>
+        <link>https://leeminhquang.github.io/posts/js-functions/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/js-functions/</guid>
+        <guid>https://leeminhquang.github.io/posts/js-functions/</guid>
         <description>&lt;h2 id=&#34;-1-khái-niệm-về-hàm&#34;&gt;⚙️ 1. Khái niệm về hàm&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Hàm (Function)&lt;/strong&gt; là khối mã thực hiện một tác vụ cụ thể và có thể được &lt;strong&gt;tái sử dụng&lt;/strong&gt; nhiều lần.&lt;br /&gt;
 Hàm giúp mã dễ đọc, dễ bảo trì và tránh lặp lại.&lt;/p&gt;

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Exception on Lê Minh Quang</title>
-    <link>/blogcuaquang/tags/exception/</link>
+    <link>https://leeminhquang.github.io/tags/exception/</link>
     <description>Recent content in Exception on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/blogcuaquang/tags/exception/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://leeminhquang.github.io/tags/exception/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Xử lý ngoại lệ trong Java</title>
-        <link>/blogcuaquang/posts/java-exception-handling/</link>
+        <link>https://leeminhquang.github.io/posts/java-exception-handling/</link>
         <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>/blogcuaquang/posts/java-exception-handling/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-exception-handling/</guid>
         <description>&lt;h2 id=&#34;-ngoại-lệ-là-gì&#34;&gt;⚠️ Ngoại lệ là gì?&lt;/h2&gt;
 &lt;p&gt;Ngoại lệ (Exception) là lỗi xảy ra trong quá trình chạy chương trình — ví dụ chia cho 0, truy cập mảng sai chỉ số, hoặc đọc file không tồn tại.&lt;/p&gt;
 &lt;h3 id=&#34;cấu-trúc-try-catch-finally&#34;&gt;Cấu trúc try-catch-finally&lt;/h3&gt;
