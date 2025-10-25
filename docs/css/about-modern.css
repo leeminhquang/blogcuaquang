@@ -1,7 +1,7 @@
 /* === HERO có nền ảnh avatar === */
 .hero {
   position: relative;
-  background: url('/images/avatar.jpg') center/cover no-repeat;
+  background: url('../images/avatar.jpg') center/cover no-repeat;
   color: white;
   text-align: center;
   padding: 6rem 1rem;
