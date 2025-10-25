@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>JavaScript on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/blogcuaquang/categories/javascript/</link>
+    <link>/blogcuaquang/categories/javascript/</link>
     <description>Recent content in JavaScript on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/blogcuaquang/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/blogcuaquang/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Fetch API và Giao tiếp với Server trong JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-fetch-api/</link>
+        <link>/blogcuaquang/posts/js-fetch-api/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-fetch-api/</guid>
+        <guid>/blogcuaquang/posts/js-fetch-api/</guid>
         <description>&lt;h2 id=&#34;-1-giới-thiệu-về-fetch-api&#34;&gt;🌐 1. Giới thiệu về Fetch API&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Fetch API&lt;/strong&gt; là công cụ tích hợp sẵn trong trình duyệt giúp JavaScript &lt;strong&gt;gửi và nhận dữ liệu từ server&lt;/strong&gt; mà không cần tải lại trang.&lt;/p&gt;
 &lt;p&gt;Fetch được sử dụng phổ biến trong:&lt;/p&gt;
@@ -92,11 +92,11 @@
     
       <item>
         <title>Hàm và Phạm vi trong JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-functions/</link>
+        <link>/blogcuaquang/posts/js-functions/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-functions/</guid>
+        <guid>/blogcuaquang/posts/js-functions/</guid>
         <description>&lt;h2 id=&#34;-1-khái-niệm-về-hàm&#34;&gt;⚙️ 1. Khái niệm về hàm&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Hàm (Function)&lt;/strong&gt; là khối mã thực hiện một tác vụ cụ thể và có thể được &lt;strong&gt;tái sử dụng&lt;/strong&gt; nhiều lần.&lt;br /&gt;
 Hàm giúp mã dễ đọc, dễ bảo trì và tránh lặp lại.&lt;/p&gt;
@@ -172,11 +172,11 @@ Hàm giúp mã dễ đọc, dễ bảo trì và tránh lặp lại.&lt;/p&gt;
     
       <item>
         <title>Tương tác với DOM trong JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-dom/</link>
+        <link>/blogcuaquang/posts/js-dom/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-dom/</guid>
+        <guid>/blogcuaquang/posts/js-dom/</guid>
         <description>&lt;h2 id=&#34;-1-dom-là-gì&#34;&gt;🌐 1. DOM là gì?&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;DOM (Document Object Model)&lt;/strong&gt; là mô hình cho phép JavaScript &lt;strong&gt;truy cập và thao tác với nội dung HTML&lt;/strong&gt; của trang web.&lt;br /&gt;
 Trình duyệt tự động &lt;strong&gt;chuyển đổi mã HTML&lt;/strong&gt; thành một cây DOM (DOM tree).&lt;/p&gt;
@@ -247,11 +247,11 @@ Dựa trên ID&lt;/p&gt;</description>
     
       <item>
         <title>Xử lý bất đồng bộ với Async/Await trong JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-async-await/</link>
+        <link>/blogcuaquang/posts/js-async-await/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-async-await/</guid>
+        <guid>/blogcuaquang/posts/js-async-await/</guid>
         <description>&lt;h2 id=&#34;-1-bất-đồng-bộ-là-gì&#34;&gt;⚙️ 1. Bất đồng bộ là gì?&lt;/h2&gt;
 &lt;p&gt;JavaScript là ngôn ngữ &lt;strong&gt;đơn luồng (single-threaded)&lt;/strong&gt; — nghĩa là nó chỉ xử lý &lt;strong&gt;một tác vụ tại một thời điểm&lt;/strong&gt;.&lt;br /&gt;
 Tuy nhiên, trong thực tế, ta thường cần:&lt;/p&gt;
@@ -302,11 +302,11 @@ Giải pháp là &lt;strong&gt;xử lý bất đồng bộ (asynchronous)&lt;/st
     
       <item>
         <title>Giới thiệu và cú pháp cơ bản JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-intro/</link>
+        <link>/blogcuaquang/posts/js-intro/</link>
         <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-intro/</guid>
+        <guid>/blogcuaquang/posts/js-intro/</guid>
         <description>&lt;h2 id=&#34;-javascript-là-gì&#34;&gt;✨ JavaScript là gì?&lt;/h2&gt;
 &lt;p&gt;JavaScript (JS) là ngôn ngữ lập trình phía client, chạy trực tiếp trong trình duyệt để tạo website tương tác và động.&lt;br /&gt;
 Nó được sử dụng cùng &lt;strong&gt;HTML&lt;/strong&gt; và &lt;strong&gt;CSS&lt;/strong&gt; trong bộ ba công nghệ web.&lt;/p&gt;

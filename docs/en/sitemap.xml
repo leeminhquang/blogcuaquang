@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/en/categories/</loc>
+    <loc>/blogcuaquang/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://leeminhquang.github.io/blogcuaquang/categories/"
+                href="/blogcuaquang/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leeminhquang.github.io/blogcuaquang/en/categories/"
+                href="/blogcuaquang/en/categories/"
                 />
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/en/</loc>
+    <loc>/blogcuaquang/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://leeminhquang.github.io/blogcuaquang/"
+                href="/blogcuaquang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leeminhquang.github.io/blogcuaquang/en/"
+                href="/blogcuaquang/en/"
                 />
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/en/series/</loc>
+    <loc>/blogcuaquang/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://leeminhquang.github.io/blogcuaquang/series/"
+                href="/blogcuaquang/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leeminhquang.github.io/blogcuaquang/en/series/"
+                href="/blogcuaquang/en/series/"
                 />
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/en/tags/</loc>
+    <loc>/blogcuaquang/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://leeminhquang.github.io/blogcuaquang/tags/"
+                href="/blogcuaquang/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leeminhquang.github.io/blogcuaquang/en/tags/"
+                href="/blogcuaquang/en/tags/"
                 />
   </url>
 </urlset>

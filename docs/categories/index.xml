@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/blogcuaquang/categories/</link>
+    <link>/blogcuaquang/categories/</link>
     <description>Recent content in Categories on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/blogcuaquang/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/blogcuaquang/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Java</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/categories/java/</link>
+        <link>/blogcuaquang/categories/java/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/categories/java/</guid>
+        <guid>/blogcuaquang/categories/java/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -40,11 +40,11 @@
     
       <item>
         <title>JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/categories/javascript/</link>
+        <link>/blogcuaquang/categories/javascript/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/categories/javascript/</guid>
+        <guid>/blogcuaquang/categories/javascript/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
