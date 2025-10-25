@@ -5,15 +5,15 @@ description: "Lê Minh Quang – AI Engineer & Developer"
 showToc: false
 ---
 
-<!-- ✅ Dẫn đúng đường CSS/JS: dùng `relURL` là đủ, KHÔNG thêm ./ -->
-<link rel="stylesheet" href="{{ "css/about-modern.css" | relURL }}">
-<script defer src="{{ "js/about-modern.js" | relURL }}"></script>
+<!-- ✅ Dẫn CSS/JS dùng đường dẫn tuyệt đối (root từ /static/) -->
+<link rel="stylesheet" href="/css/about-modern.css">
+<script defer src="/js/about-modern.js"></script>
 
 <!-- 🎵 HERO -->
 <section class="hero" id="hero">
   <audio id="bg-music" loop>
-    <!-- ✅ Đảm bảo file nhạc nằm trong `static/music/background.mp3` -->
-    <source src="{{ "music/background.mp3" | relURL }}" type="audio/mpeg">
+    <!-- ✅ File nhạc đặt tại static/music/background.mp3 -->
+    <source src="/music/background.mp3" type="audio/mpeg">
   </audio>
   <button id="music-toggle" class="music-btn" title="Tắt/Bật nhạc">🔊</button>
 
@@ -79,14 +79,13 @@ showToc: false
 <section class="projects fade-up">
   <h2>🚀 Dự án tiêu biểu</h2>
   <div class="project-grid">
-    <div class="project-card">
+      <div class="project-card">
       <h3>Stock Price Prediction</h3>
       <p>
         Xây dựng mô hình học máy dự đoán giá cổ phiếu dựa trên dữ liệu lịch sử (Open, Close, Volume).
         Ứng dụng các thuật toán LSTM và Random Forest để phân tích xu hướng thị trường và đưa ra dự báo ngắn hạn.
       </p>
     </div>
-
     <div class="project-card">
       <h3>AI Chatbot Tutor</h3>
       <p>
@@ -94,7 +93,6 @@ showToc: false
         Dự án dùng Python + Flask + OpenAI API để tạo giao diện hội thoại tự nhiên và thân thiện.
       </p>
     </div>
-
     <div class="project-card">
       <h3>Smart Attendance System</h3>
       <p>
@@ -102,6 +100,7 @@ showToc: false
         Công nghệ sử dụng: OpenCV, dlib, SQLite, giao diện viết bằng Python (Tkinter).
       </p>
     </div>
+
   </div>
 </section>
 

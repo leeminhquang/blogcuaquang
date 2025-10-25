@@ -5,23 +5,24 @@ description: "Chào mừng bạn đến với blog của Lê Minh Quang – nơi
 showToc: false
 ---
 
-<!-- ✅ Dẫn đúng file CSS/JS: không thêm ./ ở đầu -->
-<link rel="stylesheet" href="{{ "css/home-style.css" | relURL }}">
-<script defer src="{{ "js/home-effect.js" | relURL }}"></script>
+<!-- ✅ Dẫn CSS & JS bằng đường dẫn tuyệt đối (từ thư mục static/) -->
+<link rel="stylesheet" href="/css/home-style.css">
+<script defer src="/js/home-effect.js"></script>
 
 <!-- ===== HERO SECTION ===== -->
 <section class="home-hero fade-in">
   <div class="avatar-glow">
-    <!-- ✅ Đặt ảnh thật vào static/images/avatar.jpg -->
-    <img src="{{ "images/avatar.jpg" | relURL }}" alt="Lê Minh Quang" class="avatar">
+    <!-- ✅ Ảnh đặt trong static/images/avatar.jpg -->
+    <img src="/images/avatar.jpg" alt="Lê Minh Quang" class="avatar">
   </div>
 
   <h1 class="name">Lê Minh Quang</h1>
   <p class="subtitle">💻 Lập trình viên & sinh viên An ninh mạng</p>
 
+  <!-- ✅ Nút điều hướng bình thường, không lỗi 404 -->
   <div class="home-buttons">
-    <a href="{{ "about/" | relURL }}" class="btn btn-primary">Giới thiệu bản thân</a>
-    <a href="{{ "posts/" | relURL }}" class="btn btn-secondary">Blog</a>
+    <a href="/about/" class="btn btn-primary">Giới thiệu bản thân</a>
+    <a href="/posts/" class="btn btn-secondary">Blog</a>
   </div>
 
   <div class="links">
