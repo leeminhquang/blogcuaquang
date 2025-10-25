@@ -5,7 +5,7 @@ description: "Chào mừng bạn đến với blog của Lê Minh Quang – nơi
 showToc: false
 ---
 
-<link rel="stylesheet" href="/css/home-style.css">
+<link rel="stylesheet" href="{{ "css/home-style.css
 <script defer src="/js/home-effect.js"></script>
 
 <!-- ===== HERO SECTION ===== -->
