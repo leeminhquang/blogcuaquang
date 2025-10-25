@@ -2,6 +2,10 @@ baseURL = "https://leeminhquang.github.io/blogcuaquang/"
 title = "Lê Minh Quang"
 theme = "zzo"
 
+# Đường dẫn chuẩn cho GitHub Pages
+relativeURLs = true
+canonifyURLs = true
+
 defaultContentLanguage = "vi"
 # defaultContentLanguageInSubdir = true
 # hasCJKLanguage = true
@@ -12,15 +16,13 @@ buildFuture = true
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
-
 rssLimit = 100
-
-relativeURLs = true
-
 enableGitInfo = false
 googleAnalytics = ""
+
 [pagination]
   pagerSize = 13
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -58,5 +60,6 @@ googleAnalytics = ""
   name = "About"
   url = "/about/"
   weight = 1
+
 [params]
   customCSS = ["css/about-modern.css"]
