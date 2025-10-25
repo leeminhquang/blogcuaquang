@@ -1594,11 +1594,13 @@
 
       
   <main class="home-page">
-    <link rel="stylesheet" href="{{ "css/home-style.css" | relURL }}">
-<script src="{{ "js/home-effect.js" | relURL }}"></script>
+    <!-- ✅ Dẫn đúng file CSS/JS: không thêm ./ ở đầu -->
+<link rel="stylesheet" href="{{ "css/home-style.css" | relURL }}">
+<script defer src="{{ "js/home-effect.js" | relURL }}"></script>
 <!-- ===== HERO SECTION ===== -->
 <section class="home-hero fade-in">
   <div class="avatar-glow">
+    <!-- ✅ Đặt ảnh thật vào static/images/avatar.jpg -->
     <img src="{{ "images/avatar.jpg" | relURL }}" alt="Lê Minh Quang" class="avatar">
   </div>
   <h1 class="name">Lê Minh Quang</h1>
