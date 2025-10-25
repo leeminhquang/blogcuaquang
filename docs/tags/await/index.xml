@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Await on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/tags/await/</link>
+    <link>https://leeminhquang.github.io/blogcuaquang/tags/await/</link>
     <description>Recent content in Await on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/tags/await/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/await/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Xử lý bất đồng bộ với Async/Await trong JavaScript</title>
-        <link>https://leeminhquang.github.io/posts/js-async-await/</link>
+        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-async-await/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/posts/js-async-await/</guid>
+        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-async-await/</guid>
         <description>&lt;h2 id=&#34;-1-bất-đồng-bộ-là-gì&#34;&gt;⚙️ 1. Bất đồng bộ là gì?&lt;/h2&gt;
 &lt;p&gt;JavaScript là ngôn ngữ &lt;strong&gt;đơn luồng (single-threaded)&lt;/strong&gt; — nghĩa là nó chỉ xử lý &lt;strong&gt;một tác vụ tại một thời điểm&lt;/strong&gt;.&lt;br /&gt;
 Tuy nhiên, trong thực tế, ta thường cần:&lt;/p&gt;

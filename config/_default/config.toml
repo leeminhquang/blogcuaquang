@@ -1,11 +1,10 @@
-baseURL = "https://leeminhquang.github.io/"
+baseURL = "https://leeminhquang.github.io/blogcuaquang/"
 title = "Lê Minh Quang"
 theme = "zzo"
 
 publishDir = "docs"
 relativeURLs = false
 canonifyURLs = true
-
 
 defaultContentLanguage = "vi"
 summaryLength = 70

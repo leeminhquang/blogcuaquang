@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Object on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/tags/object/</link>
+    <link>https://leeminhquang.github.io/blogcuaquang/tags/object/</link>
     <description>Recent content in Object on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/tags/object/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/object/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Lớp, Đối tượng và Hàm tạo trong Java</title>
-        <link>https://leeminhquang.github.io/posts/java-classes-objects/</link>
+        <link>https://leeminhquang.github.io/blogcuaquang/posts/java-classes-objects/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/posts/java-classes-objects/</guid>
+        <guid>https://leeminhquang.github.io/blogcuaquang/posts/java-classes-objects/</guid>
         <description>&lt;h2 id=&#34;-1-khái-niệm-lớp-class-và-đối-tượng-object&#34;&gt;🧩 1. Khái niệm Lớp (Class) và Đối tượng (Object)&lt;/h2&gt;
 &lt;p&gt;Trong &lt;strong&gt;Java&lt;/strong&gt;, mọi thứ đều xoay quanh &lt;strong&gt;class&lt;/strong&gt; và &lt;strong&gt;object&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
