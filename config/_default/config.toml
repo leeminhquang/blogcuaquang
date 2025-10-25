@@ -1,4 +1,5 @@
 baseURL = "https://leeminhquang.github.io/blogcuaquang/"
+publishDir = "docs"
 title = "Lê Minh Quang"
 theme = "zzo"
 
