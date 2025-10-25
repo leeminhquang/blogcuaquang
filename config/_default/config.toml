@@ -2,7 +2,6 @@ baseURL = "https://leeminhquang.github.io/blogcuaquang/"
 title = "Lê Minh Quang"
 theme = "zzo"
 
-# Đường dẫn chuẩn cho GitHub Pages
 relativeURLs = true
 canonifyURLs = true
 

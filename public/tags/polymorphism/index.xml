@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Polymorphism on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/blogcuaquang/tags/polymorphism/</link>
+    <link>http://localhost:1313/blogcuaquang/tags/polymorphism/</link>
     <description>Recent content in Polymorphism on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/polymorphism/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/blogcuaquang/tags/polymorphism/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Kế thừa và Đa hình trong Java</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/java-inheritance-polymorphism/</link>
+        <link>http://localhost:1313/blogcuaquang/posts/java-inheritance-polymorphism/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/java-inheritance-polymorphism/</guid>
+        <guid>http://localhost:1313/blogcuaquang/posts/java-inheritance-polymorphism/</guid>
         <description>&lt;h2 id=&#34;-1-khái-niệm-kế-thừa-inheritance&#34;&gt;🧬 1. Khái niệm kế thừa (Inheritance)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Kế thừa&lt;/strong&gt; cho phép một lớp &lt;strong&gt;mở rộng (extend)&lt;/strong&gt; lớp khác để &lt;strong&gt;tái sử dụng mã&lt;/strong&gt; và &lt;strong&gt;mở rộng chức năng&lt;/strong&gt; mà không cần viết lại.&lt;/p&gt;
 &lt;ul&gt;

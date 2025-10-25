@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Basics on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/blogcuaquang/tags/basics/</link>
+    <link>http://localhost:1313/blogcuaquang/tags/basics/</link>
     <description>Recent content in Basics on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/basics/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/blogcuaquang/tags/basics/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Giới thiệu và cú pháp cơ bản JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-intro/</link>
+        <link>http://localhost:1313/blogcuaquang/posts/js-intro/</link>
         <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-intro/</guid>
+        <guid>http://localhost:1313/blogcuaquang/posts/js-intro/</guid>
         <description>&lt;h2 id=&#34;-javascript-là-gì&#34;&gt;✨ JavaScript là gì?&lt;/h2&gt;
 &lt;p&gt;JavaScript (JS) là ngôn ngữ lập trình phía client, chạy trực tiếp trong trình duyệt để tạo website tương tác và động.&lt;br /&gt;
 Nó được sử dụng cùng &lt;strong&gt;HTML&lt;/strong&gt; và &lt;strong&gt;CSS&lt;/strong&gt; trong bộ ba công nghệ web.&lt;/p&gt;

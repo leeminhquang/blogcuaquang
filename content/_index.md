@@ -18,8 +18,8 @@ showToc: false
   <p class="subtitle">💻 Lập trình viên & sinh viên An ninh mạng</p>
 
   <div class="home-buttons">
-    <a href="/about/" class="btn btn-primary">Giới thiệu bản thân</a>
-    <a href="/posts/" class="btn btn-secondary">Blog</a>
+    <a href="{{ "about/" | relURL }}" class="btn btn-primary">Giới thiệu bản thân</a>
+    <a href="{{ "posts/" | relURL }}" class="btn btn-secondary">Blog</a>
   </div>
 
   <div class="links">

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/blogcuaquang/tags/</link>
+    <link>http://localhost:1313/blogcuaquang/tags/</link>
     <description>Recent content in Tags on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/blogcuaquang/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Async</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/async/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/async/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/async/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/async/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -40,11 +40,11 @@
     
       <item>
         <title>Asynchronous</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/asynchronous/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/asynchronous/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/asynchronous/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/asynchronous/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -58,11 +58,11 @@
     
       <item>
         <title>Await</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/await/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/await/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/await/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/await/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -76,11 +76,11 @@
     
       <item>
         <title>Browser</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/browser/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/browser/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/browser/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/browser/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -94,11 +94,11 @@
     
       <item>
         <title>Class</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/class/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/class/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/class/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/class/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -112,11 +112,11 @@
     
       <item>
         <title>Constructor</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/constructor/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/constructor/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/constructor/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/constructor/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -130,11 +130,11 @@
     
       <item>
         <title>DOM</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/dom/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/dom/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/dom/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/dom/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -148,11 +148,11 @@
     
       <item>
         <title>Event</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/event/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/event/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/event/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/event/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -166,11 +166,11 @@
     
       <item>
         <title>Fetch API</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/fetch-api/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/fetch-api/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/fetch-api/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/fetch-api/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -184,11 +184,11 @@
     
       <item>
         <title>Function</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/function/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/function/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/function/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/function/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -202,11 +202,11 @@
     
       <item>
         <title>Hoisting</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/hoisting/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/hoisting/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/hoisting/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/hoisting/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -220,11 +220,11 @@
     
       <item>
         <title>HTML</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/html/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/html/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/html/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/html/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -238,11 +238,11 @@
     
       <item>
         <title>HTTP</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/http/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/http/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/http/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/http/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -256,11 +256,11 @@
     
       <item>
         <title>Inheritance</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/inheritance/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/inheritance/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/inheritance/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/inheritance/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -274,11 +274,11 @@
     
       <item>
         <title>Java</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/java/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/java/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/java/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/java/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -292,11 +292,11 @@
     
       <item>
         <title>JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/javascript/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/javascript/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/javascript/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/javascript/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -310,11 +310,11 @@
     
       <item>
         <title>JSON</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/json/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/json/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/json/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/json/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -328,11 +328,11 @@
     
       <item>
         <title>Object</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/object/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/object/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/object/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/object/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -346,11 +346,11 @@
     
       <item>
         <title>OOP</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/oop/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/oop/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/oop/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/oop/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -364,11 +364,11 @@
     
       <item>
         <title>Polymorphism</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/polymorphism/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/polymorphism/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/polymorphism/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/polymorphism/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -382,11 +382,11 @@
     
       <item>
         <title>Programming</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/programming/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/programming/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/programming/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/programming/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -400,11 +400,11 @@
     
       <item>
         <title>Promise</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/promise/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/promise/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/promise/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/promise/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -418,11 +418,11 @@
     
       <item>
         <title>Scope</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/scope/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/scope/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/scope/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/scope/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -436,11 +436,11 @@
     
       <item>
         <title>Basics</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/basics/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/basics/</link>
         <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/basics/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/basics/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>
@@ -454,11 +454,11 @@
     
       <item>
         <title>Exception</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/tags/exception/</link>
+        <link>http://localhost:1313/blogcuaquang/tags/exception/</link>
         <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         
-        <guid>https://leeminhquang.github.io/blogcuaquang/tags/exception/</guid>
+        <guid>http://localhost:1313/blogcuaquang/tags/exception/</guid>
         <description></description>
         
         <dc:creator>Lê Minh Quang</dc:creator>

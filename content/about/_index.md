@@ -5,13 +5,13 @@ description: "Lê Minh Quang – AI Engineer & Developer"
 showToc: false
 ---
 
-<link rel="stylesheet" href="/css/about-modern.css">
-<script defer src="/js/about-modern.js"></script>
+<link rel="stylesheet" href="{{ "css/about-modern.css" | relURL }}">
+<script defer src="{{ "js/about-modern.js" | relURL }}"></script>
 
 <!-- HERO -->
 <section class="hero" id="hero">
   <audio id="bg-music" loop>
-    <source src="/music/background.mp3" type="audio/mpeg">
+    <source src="{{ "music/background.mp3" | relURL }}" type="audio/mpeg">
   </audio>
   <button id="music-toggle" class="music-btn" title="Tắt/Bật nhạc">🔊</button>
 
