@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Programming on Lê Minh Quang</title>
+    <link>https://leeminhquang.github.io/blogcuaquang/tags/programming/</link>
+    <description>Recent content in Programming on Lê Minh Quang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>leeminhquang@gmail.com (Lê Minh Quang)</managingEditor>
+    <webMaster>leeminhquang@gmail.com (Lê Minh Quang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>Giới thiệu ngôn ngữ Java</title>
+        <link>https://leeminhquang.github.io/blogcuaquang/posts/java-intro/</link>
+        <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>https://leeminhquang.github.io/blogcuaquang/posts/java-intro/</guid>
+        <description>&lt;h2 id=&#34;-giới-thiệu-chung&#34;&gt;🧩 Giới thiệu chung&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Java&lt;/strong&gt; là một ngôn ngữ lập trình &lt;strong&gt;đa nền tảng (cross-platform)&lt;/strong&gt;, &lt;strong&gt;hướng đối tượng (OOP)&lt;/strong&gt; và &lt;strong&gt;bảo mật cao&lt;/strong&gt;, được phát triển bởi &lt;strong&gt;Sun Microsystems&lt;/strong&gt; (nay thuộc Oracle). Java cho phép lập trình viên &lt;strong&gt;“Write Once, Run Anywhere”&lt;/strong&gt; — nghĩa là chỉ cần viết một lần, có thể chạy trên mọi hệ điều hành hỗ trợ Java Virtual Machine (JVM).&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;-kiến-trúc-java&#34;&gt;⚙️ Kiến trúc Java&lt;/h2&gt;
+&lt;p&gt;Khi bạn biên dịch một chương trình Java:&lt;/p&gt;</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>OOP</category>
+            
+          
+            
+              <category>Programming</category>
+            
+          
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+      </item>
+    
+  </channel>
+</rss>
