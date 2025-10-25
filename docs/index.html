@@ -1388,6 +1388,13 @@
 
   
   <link rel="stylesheet" href="./css/about-modern.css">
+  
+
+
+<link rel="stylesheet" href="./">
+<link rel="stylesheet" href="./">
+<link rel="stylesheet" href="./">
+
 </head>
 
 <body id="root">
@@ -1587,12 +1594,12 @@
 
       
   <main class="home-page">
-    <link rel="stylesheet" href="{{ "css/home-style.css
-<script defer src="./js/home-effect.js"></script>
+    <link rel="stylesheet" href="{{ "css/home-style.css" | relURL }}">
+<script src="{{ "js/home-effect.js" | relURL }}"></script>
 <!-- ===== HERO SECTION ===== -->
 <section class="home-hero fade-in">
   <div class="avatar-glow">
-    <img src="./images/avatar.jpg" alt="Lê Minh Quang" class="avatar">
+    <img src="{{ "images/avatar.jpg" | relURL }}" alt="Lê Minh Quang" class="avatar">
   </div>
   <h1 class="name">Lê Minh Quang</h1>
   <p class="subtitle">💻 Lập trình viên & sinh viên An ninh mạng</p>

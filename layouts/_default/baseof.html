@@ -15,6 +15,13 @@
 
   <!-- ✅ Thêm dòng này để load CSS của bạn -->
   <link rel="stylesheet" href="/css/about-modern.css">
+  {{ $styles := resources.Get "css/home-style.css" | relURL }}
+{{ $about := resources.Get "css/about-modern.css" | relURL }}
+{{ $theme := resources.Get "css/theme-fix-overlay.css" | relURL }}
+<link rel="stylesheet" href="{{ $styles }}">
+<link rel="stylesheet" href="{{ $about }}">
+<link rel="stylesheet" href="{{ $theme }}">
+
 </head>
 
 <body id="root">

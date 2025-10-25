@@ -5,13 +5,13 @@ description: "Chào mừng bạn đến với blog của Lê Minh Quang – nơi
 showToc: false
 ---
 
-<link rel="stylesheet" href="{{ "css/home-style.css
-<script defer src="/js/home-effect.js"></script>
+<link rel="stylesheet" href="{{ "css/home-style.css" | relURL }}">
+<script src="{{ "js/home-effect.js" | relURL }}"></script>
 
 <!-- ===== HERO SECTION ===== -->
 <section class="home-hero fade-in">
   <div class="avatar-glow">
-    <img src="/images/avatar.jpg" alt="Lê Minh Quang" class="avatar">
+    <img src="{{ "images/avatar.jpg" | relURL }}" alt="Lê Minh Quang" class="avatar">
   </div>
 
   <h1 class="name">Lê Minh Quang</h1>
