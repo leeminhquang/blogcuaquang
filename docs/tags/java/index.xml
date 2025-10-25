@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Java on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/blogcuaquang/tags/java/</link>
+    <link>https://leeminhquang.github.io/tags/java/</link>
     <description>Recent content in Java on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/java/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://leeminhquang.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Giới thiệu ngôn ngữ Java</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/java-intro/</link>
+        <link>https://leeminhquang.github.io/posts/java-intro/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/java-intro/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-intro/</guid>
         <description>&lt;h2 id=&#34;-giới-thiệu-chung&#34;&gt;🧩 Giới thiệu chung&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Java&lt;/strong&gt; là một ngôn ngữ lập trình &lt;strong&gt;đa nền tảng (cross-platform)&lt;/strong&gt;, &lt;strong&gt;hướng đối tượng (OOP)&lt;/strong&gt; và &lt;strong&gt;bảo mật cao&lt;/strong&gt;, được phát triển bởi &lt;strong&gt;Sun Microsystems&lt;/strong&gt; (nay thuộc Oracle). Java cho phép lập trình viên &lt;strong&gt;“Write Once, Run Anywhere”&lt;/strong&gt; — nghĩa là chỉ cần viết một lần, có thể chạy trên mọi hệ điều hành hỗ trợ Java Virtual Machine (JVM).&lt;/p&gt;
 &lt;hr /&gt;
@@ -64,11 +64,11 @@
     
       <item>
         <title>Kế thừa và Đa hình trong Java</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/java-inheritance-polymorphism/</link>
+        <link>https://leeminhquang.github.io/posts/java-inheritance-polymorphism/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/java-inheritance-polymorphism/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-inheritance-polymorphism/</guid>
         <description>&lt;h2 id=&#34;-1-khái-niệm-kế-thừa-inheritance&#34;&gt;🧬 1. Khái niệm kế thừa (Inheritance)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Kế thừa&lt;/strong&gt; cho phép một lớp &lt;strong&gt;mở rộng (extend)&lt;/strong&gt; lớp khác để &lt;strong&gt;tái sử dụng mã&lt;/strong&gt; và &lt;strong&gt;mở rộng chức năng&lt;/strong&gt; mà không cần viết lại.&lt;/p&gt;
 &lt;ul&gt;
@@ -170,11 +170,11 @@
     
       <item>
         <title>Lớp, Đối tượng và Hàm tạo trong Java</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/java-classes-objects/</link>
+        <link>https://leeminhquang.github.io/posts/java-classes-objects/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/java-classes-objects/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-classes-objects/</guid>
         <description>&lt;h2 id=&#34;-1-khái-niệm-lớp-class-và-đối-tượng-object&#34;&gt;🧩 1. Khái niệm Lớp (Class) và Đối tượng (Object)&lt;/h2&gt;
 &lt;p&gt;Trong &lt;strong&gt;Java&lt;/strong&gt;, mọi thứ đều xoay quanh &lt;strong&gt;class&lt;/strong&gt; và &lt;strong&gt;object&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -224,11 +224,11 @@
     
       <item>
         <title>Xử lý ngoại lệ trong Java</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/java-exception-handling/</link>
+        <link>https://leeminhquang.github.io/posts/java-exception-handling/</link>
         <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/java-exception-handling/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-exception-handling/</guid>
         <description>&lt;h2 id=&#34;-ngoại-lệ-là-gì&#34;&gt;⚠️ Ngoại lệ là gì?&lt;/h2&gt;
 &lt;p&gt;Ngoại lệ (Exception) là lỗi xảy ra trong quá trình chạy chương trình — ví dụ chia cho 0, truy cập mảng sai chỉ số, hoặc đọc file không tồn tại.&lt;/p&gt;
 &lt;h3 id=&#34;cấu-trúc-try-catch-finally&#34;&gt;Cấu trúc try-catch-finally&lt;/h3&gt;

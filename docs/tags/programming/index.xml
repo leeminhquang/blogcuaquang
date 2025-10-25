@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Programming on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/blogcuaquang/tags/programming/</link>
+    <link>https://leeminhquang.github.io/tags/programming/</link>
     <description>Recent content in Programming on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://leeminhquang.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Giới thiệu ngôn ngữ Java</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/java-intro/</link>
+        <link>https://leeminhquang.github.io/posts/java-intro/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/java-intro/</guid>
+        <guid>https://leeminhquang.github.io/posts/java-intro/</guid>
         <description>&lt;h2 id=&#34;-giới-thiệu-chung&#34;&gt;🧩 Giới thiệu chung&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Java&lt;/strong&gt; là một ngôn ngữ lập trình &lt;strong&gt;đa nền tảng (cross-platform)&lt;/strong&gt;, &lt;strong&gt;hướng đối tượng (OOP)&lt;/strong&gt; và &lt;strong&gt;bảo mật cao&lt;/strong&gt;, được phát triển bởi &lt;strong&gt;Sun Microsystems&lt;/strong&gt; (nay thuộc Oracle). Java cho phép lập trình viên &lt;strong&gt;“Write Once, Run Anywhere”&lt;/strong&gt; — nghĩa là chỉ cần viết một lần, có thể chạy trên mọi hệ điều hành hỗ trợ Java Virtual Machine (JVM).&lt;/p&gt;
 &lt;hr /&gt;

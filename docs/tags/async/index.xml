@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Async on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/blogcuaquang/tags/async/</link>
+    <link>https://leeminhquang.github.io/tags/async/</link>
     <description>Recent content in Async on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/async/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://leeminhquang.github.io/tags/async/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Fetch API và Giao tiếp với Server trong JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-fetch-api/</link>
+        <link>https://leeminhquang.github.io/posts/js-fetch-api/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-fetch-api/</guid>
+        <guid>https://leeminhquang.github.io/posts/js-fetch-api/</guid>
         <description>&lt;h2 id=&#34;-1-giới-thiệu-về-fetch-api&#34;&gt;🌐 1. Giới thiệu về Fetch API&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Fetch API&lt;/strong&gt; là công cụ tích hợp sẵn trong trình duyệt giúp JavaScript &lt;strong&gt;gửi và nhận dữ liệu từ server&lt;/strong&gt; mà không cần tải lại trang.&lt;/p&gt;
 &lt;p&gt;Fetch được sử dụng phổ biến trong:&lt;/p&gt;
@@ -92,11 +92,11 @@
     
       <item>
         <title>Xử lý bất đồng bộ với Async/Await trong JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-async-await/</link>
+        <link>https://leeminhquang.github.io/posts/js-async-await/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-async-await/</guid>
+        <guid>https://leeminhquang.github.io/posts/js-async-await/</guid>
         <description>&lt;h2 id=&#34;-1-bất-đồng-bộ-là-gì&#34;&gt;⚙️ 1. Bất đồng bộ là gì?&lt;/h2&gt;
 &lt;p&gt;JavaScript là ngôn ngữ &lt;strong&gt;đơn luồng (single-threaded)&lt;/strong&gt; — nghĩa là nó chỉ xử lý &lt;strong&gt;một tác vụ tại một thời điểm&lt;/strong&gt;.&lt;br /&gt;
 Tuy nhiên, trong thực tế, ta thường cần:&lt;/p&gt;

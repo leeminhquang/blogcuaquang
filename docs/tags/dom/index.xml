@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>DOM on Lê Minh Quang</title>
-    <link>https://leeminhquang.github.io/blogcuaquang/tags/dom/</link>
+    <link>https://leeminhquang.github.io/tags/dom/</link>
     <description>Recent content in DOM on Lê Minh Quang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/dom/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://leeminhquang.github.io/tags/dom/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       <item>
         <title>Tương tác với DOM trong JavaScript</title>
-        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-dom/</link>
+        <link>https://leeminhquang.github.io/posts/js-dom/</link>
         <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
         <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
         <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
-        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-dom/</guid>
+        <guid>https://leeminhquang.github.io/posts/js-dom/</guid>
         <description>&lt;h2 id=&#34;-1-dom-là-gì&#34;&gt;🌐 1. DOM là gì?&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;DOM (Document Object Model)&lt;/strong&gt; là mô hình cho phép JavaScript &lt;strong&gt;truy cập và thao tác với nội dung HTML&lt;/strong&gt; của trang web.&lt;br /&gt;
 Trình duyệt tự động &lt;strong&gt;chuyển đổi mã HTML&lt;/strong&gt; thành một cây DOM (DOM tree).&lt;/p&gt;

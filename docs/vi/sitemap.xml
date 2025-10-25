@@ -2,171 +2,171 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/contact/</loc>
+    <loc>https://leeminhquang.github.io/contact/</loc>
     <lastmod>2025-12-17T23:58:33+09:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/</loc>
+    <loc>https://leeminhquang.github.io/</loc>
     <lastmod>2025-12-17T23:58:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leeminhquang.github.io/blogcuaquang/en/"
+                href="https://leeminhquang.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://leeminhquang.github.io/blogcuaquang/"
+                href="https://leeminhquang.github.io/"
                 />
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/async/</loc>
+    <loc>https://leeminhquang.github.io/tags/async/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/asynchronous/</loc>
+    <loc>https://leeminhquang.github.io/tags/asynchronous/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/await/</loc>
+    <loc>https://leeminhquang.github.io/tags/await/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/browser/</loc>
+    <loc>https://leeminhquang.github.io/tags/browser/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/categories/</loc>
+    <loc>https://leeminhquang.github.io/categories/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leeminhquang.github.io/blogcuaquang/en/categories/"
+                href="https://leeminhquang.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://leeminhquang.github.io/blogcuaquang/categories/"
+                href="https://leeminhquang.github.io/categories/"
                 />
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/class/</loc>
+    <loc>https://leeminhquang.github.io/tags/class/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/constructor/</loc>
+    <loc>https://leeminhquang.github.io/tags/constructor/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/dom/</loc>
+    <loc>https://leeminhquang.github.io/tags/dom/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/event/</loc>
+    <loc>https://leeminhquang.github.io/tags/event/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/fetch-api/</loc>
+    <loc>https://leeminhquang.github.io/tags/fetch-api/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/js-fetch-api/</loc>
+    <loc>https://leeminhquang.github.io/posts/js-fetch-api/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/function/</loc>
+    <loc>https://leeminhquang.github.io/tags/function/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/java-intro/</loc>
+    <loc>https://leeminhquang.github.io/posts/java-intro/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/js-functions/</loc>
+    <loc>https://leeminhquang.github.io/posts/js-functions/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/hoisting/</loc>
+    <loc>https://leeminhquang.github.io/tags/hoisting/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/html/</loc>
+    <loc>https://leeminhquang.github.io/tags/html/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/http/</loc>
+    <loc>https://leeminhquang.github.io/tags/http/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/inheritance/</loc>
+    <loc>https://leeminhquang.github.io/tags/inheritance/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/categories/java/</loc>
+    <loc>https://leeminhquang.github.io/categories/java/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/java/</loc>
+    <loc>https://leeminhquang.github.io/tags/java/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/categories/javascript/</loc>
+    <loc>https://leeminhquang.github.io/categories/javascript/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/javascript/</loc>
+    <loc>https://leeminhquang.github.io/tags/javascript/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/json/</loc>
+    <loc>https://leeminhquang.github.io/tags/json/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/java-inheritance-polymorphism/</loc>
+    <loc>https://leeminhquang.github.io/posts/java-inheritance-polymorphism/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/java-classes-objects/</loc>
+    <loc>https://leeminhquang.github.io/posts/java-classes-objects/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/object/</loc>
+    <loc>https://leeminhquang.github.io/tags/object/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/oop/</loc>
+    <loc>https://leeminhquang.github.io/tags/oop/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/polymorphism/</loc>
+    <loc>https://leeminhquang.github.io/tags/polymorphism/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/</loc>
+    <loc>https://leeminhquang.github.io/posts/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/programming/</loc>
+    <loc>https://leeminhquang.github.io/tags/programming/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/promise/</loc>
+    <loc>https://leeminhquang.github.io/tags/promise/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/scope/</loc>
+    <loc>https://leeminhquang.github.io/tags/scope/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/</loc>
+    <loc>https://leeminhquang.github.io/tags/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leeminhquang.github.io/blogcuaquang/en/tags/"
+                href="https://leeminhquang.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://leeminhquang.github.io/blogcuaquang/tags/"
+                href="https://leeminhquang.github.io/tags/"
                 />
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/js-dom/</loc>
+    <loc>https://leeminhquang.github.io/posts/js-dom/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/js-async-await/</loc>
+    <loc>https://leeminhquang.github.io/posts/js-async-await/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/basics/</loc>
+    <loc>https://leeminhquang.github.io/tags/basics/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/tags/exception/</loc>
+    <loc>https://leeminhquang.github.io/tags/exception/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/js-intro/</loc>
+    <loc>https://leeminhquang.github.io/posts/js-intro/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/posts/java-exception-handling/</loc>
+    <loc>https://leeminhquang.github.io/posts/java-exception-handling/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/about/</loc>
+    <loc>https://leeminhquang.github.io/about/</loc>
   </url><url>
-    <loc>https://leeminhquang.github.io/blogcuaquang/series/</loc>
+    <loc>https://leeminhquang.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leeminhquang.github.io/blogcuaquang/en/series/"
+                href="https://leeminhquang.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://leeminhquang.github.io/blogcuaquang/series/"
+                href="https://leeminhquang.github.io/series/"
                 />
   </url>
 </urlset>
