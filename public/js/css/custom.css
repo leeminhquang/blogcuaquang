@@ -1,0 +1,43 @@
+/* ===== Toàn bộ trang full width ===== */
+.main.inner,
+.container,
+.content,
+.page__content,
+.list__main,
+.single__main {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 0 2rem !important;
+}
+
+/* ===== Xoá viền hoặc khoảng trống hai bên ===== */
+body {
+  background-color: #1c1b1b !important; /* giữ nền tối của theme */
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* ===== Nếu có sidebar hoặc list ===== */
+.lmr, .lm, .mr {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* ===== Căn giữa nội dung trong Home (trang chủ) ===== */
+.main.inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ===== Tùy chỉnh bài viết (Posts) cho full khung ===== */
+.single__main,
+.summary__container {
+  width: 100% !important;
+  max-width: 1200px !important;
+  margin: auto;
+}

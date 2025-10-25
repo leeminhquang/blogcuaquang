@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" dir="{{ $.Param "languagedir" | default "ltr" }}">
+<head prefix="og: http://ogp.me/ns#">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ block "title" . }}{{ .Title }} – {{ .Site.Title }}{{ end }}</title>
+
+  {{ partial "head/scripts" . }}
+  {{ partial "head/styles" . }}
+  {{ partial "head/meta" . }}
+  {{ partial "head/meta_json_ld" . }}
+  {{ partial "head/services" . }}
+  {{ partial "head/custom-head" . }}
+
+  <!-- ✅ Thêm dòng này để load CSS của bạn -->
+  <link rel="stylesheet" href="/css/about-modern.css">
+</head>
+
+<body id="root">
+  <div id="container">
+    {{ partial "body/main-left" . }}
+    <div class="wrapper" data-type="{{ .Type }}" data-kind="{{ .Kind }}">
+      {{ partial "navbar/site-nav" . }}
+      {{ partial "header/site-header" . }}
+      {{ block "main" . }}{{ end }}
+      {{ partial "body/custom-body" . }}
+      {{ partial "footer/site-footer" . }}
+    </div>
+    {{ partial "body/main-right" . }}
+  </div>
+
+  <!-- ✅ Safe theme fix script -->
+  {{ partial "script/fix-theme" . }}
+  {{ partial "footer/custom.html" . }}
+
+</body>
+</html>

@@ -1,0 +1,221 @@
+/* ==================== HERO ==================== */
+.hero {
+  position: relative;
+  height: 100vh;
+  background: url('/images/bg-office.jpg') center/cover no-repeat fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+  animation: fadeInHero 1.5s ease;
+}
+
+@keyframes fadeInHero {
+  from { opacity: 0; transform: scale(1.05); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(3px);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 700px;
+  padding: 2rem;
+  animation: slideUp 1.5s ease;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(40px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.hero h1 {
+  font-size: 3.2rem;
+  margin-bottom: 0.5rem;
+  text-shadow: 0 3px 8px rgba(0,0,0,0.4);
+}
+
+.hero h3 {
+  font-size: 1.3rem;
+  color: #ffb84d;
+  margin-bottom: 1.5rem;
+}
+
+.btn {
+  margin-top: 1rem;
+  padding: 14px 32px;
+  background: linear-gradient(90deg, #ff4b4b, #ffb84d);
+  color: white;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 6px 18px rgba(255, 75, 75, 0.3);
+}
+.btn:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(255, 75, 75, 0.5);
+}
+
+/* ==================== INTRO ==================== */
+.intro-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4rem auto;
+  max-width: 1100px;
+  background: #1e1e1e;
+  padding: 3rem;
+  border-radius: 25px;
+  box-shadow: 0 0 25px rgba(255, 75, 75, 0.15);
+  color: #eee;
+  gap: 2rem;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.intro-card:hover {
+  transform: scale(1.01);
+  box-shadow: 0 0 35px rgba(255, 75, 75, 0.3);
+}
+.intro-text {
+  flex: 1;
+  padding-right: 2rem;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+.intro-img img {
+  width: 340px;
+  border-radius: 18px;
+  box-shadow: 0 0 30px rgba(255, 75, 75, 0.35);
+  transition: transform 0.4s ease;
+}
+.intro-img img:hover {
+  transform: scale(1.05);
+}
+
+/* ==================== SKILLS ==================== */
+.skill-item { margin-bottom: 1.2rem; font-size: 1rem; color: #ddd; }
+.bar {
+  background: #2b2b2b;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 12px;
+}
+.bar div {
+  height: 12px;
+  width: 0;
+  background: linear-gradient(90deg, #ff4b4b, #ffb84d);
+  transition: width 2s ease;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(255,75,75,0.3);
+}
+
+/* ==================== PROJECTS ==================== */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 2rem;
+  max-width: 1100px;
+  margin: 4rem auto;
+  padding: 0 1rem;
+}
+.project-card {
+  background: #252525;
+  padding: 1.8rem;
+  border-radius: 14px;
+  color: #eee;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.project-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 25px rgba(255,255,255,0.1);
+  background: #2e2e2e;
+}
+
+/* ==================== CONTACT ==================== */
+.contact {
+  text-align: center;
+  padding: 4rem 0;
+  color: #ccc;
+  background: #1a1a1a;
+}
+.contact a {
+  color: #ffb84d;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+.contact a:hover { color: #ff4b4b; }
+
+/* ==================== MUSIC BUTTON ==================== */
+.music-btn {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
+  border-radius: 50%;
+  font-size: 22px;
+  cursor: pointer;
+  padding: 10px 14px;
+  color: #fff;
+  z-index: 5;
+  transition: all 0.3s ease;
+}
+.music-btn:hover {
+  transform: rotate(10deg) scale(1.05);
+  background: rgba(255, 255, 255, 0.35);
+}
+
+/* ==================== ANIMATIONS ==================== */
+.fade-up, .fade-in {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 1s ease;
+}
+.visible {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
+
+/* ==================== ABOUT SECTION (có sẵn) ==================== */
+.about-wrapper, .about-section {
+  max-width: 1100px;
+  margin: 3rem auto;
+  line-height: 1.8;
+  font-size: 1.05rem;
+  color: #eee;
+}
+
+.about-avatar {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 25px rgba(255, 75, 75, 0.35);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.about-avatar:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 35px rgba(255, 75, 75, 0.6);
+}
+
+/* ==================== GLOBAL EFFECT ==================== */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+html {
+  scroll-behavior: smooth;
+}

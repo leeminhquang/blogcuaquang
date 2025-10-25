@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Programming Basics on Lê Minh Quang</title>
+    <link>http://localhost:1313/tags/programming-basics/</link>
+    <description>Recent content in Programming Basics on Lê Minh Quang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>leeminhquang@gmail.com (Lê Minh Quang)</managingEditor>
+    <webMaster>leeminhquang@gmail.com (Lê Minh Quang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/tags/programming-basics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>Giới thiệu và cấu trúc cơ bản trong Java</title>
+        <link>http://localhost:1313/posts/java-intro/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://localhost:1313/posts/java-intro/</guid>
+        <description>&lt;h2 id=&#34;-giới-thiệu&#34;&gt;🧠 Giới thiệu&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Java&lt;/strong&gt; là ngôn ngữ lập trình hướng đối tượng mạnh mẽ, được phát triển bởi Sun Microsystems (nay thuộc Oracle).&lt;br /&gt;
+Ưu điểm nổi bật của Java là khả năng &lt;strong&gt;chạy đa nền tảng&lt;/strong&gt; nhờ vào &lt;strong&gt;JVM (Java Virtual Machine)&lt;/strong&gt; — viết một lần, chạy mọi nơi (Write Once, Run Anywhere).&lt;/p&gt;
+&lt;h3 id=&#34;-ứng-dụng-của-java&#34;&gt;🌍 Ứng dụng của Java&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Phát triển &lt;strong&gt;ứng dụng web&lt;/strong&gt; (Spring Boot, Jakarta EE)&lt;/li&gt;
+&lt;li&gt;Ứng dụng &lt;strong&gt;mobile (Android)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ứng dụng doanh nghiệp (Enterprise Applications)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trí tuệ nhân tạo, Machine Learning&lt;/strong&gt; (với thư viện Deeplearning4j)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phần mềm desktop&lt;/strong&gt; (JavaFX, Swing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-cấu-trúc-chương-trình-java&#34;&gt;⚙️ Cấu trúc chương trình Java&lt;/h2&gt;
+&lt;p&gt;Mỗi file Java có thể chứa nhiều lớp, nhưng chỉ &lt;strong&gt;một lớp public&lt;/strong&gt; được đặt trùng tên với file.&lt;/p&gt;</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>Programming Basics</category>
+            
+          
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+      </item>
+    
+  </channel>
+</rss>

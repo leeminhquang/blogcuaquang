@@ -1,0 +1,174 @@
+/* =============================== */
+/* 🌟 Trang chủ - giao diện cân đối, hiện đại */
+/* =============================== */
+
+/* Ghi đè layout Zzo nhẹ để căn giữa hợp lý, KHÔNG full width */
+.article, main.content, .wrapper, .single.home {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  padding: 0 1rem !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Tổng thể */
+body {
+  background: radial-gradient(circle at top, #1f1f1f, #0c0c0c);
+  color: #fff;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+}
+
+/* ----- HERO ----- */
+.home-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 85vh;
+  padding: 3rem 1rem;
+  margin: 0 auto;
+  max-width: 850px;
+  background: none;
+  border-radius: 10px;
+  position: relative;
+}
+
+/* Avatar với vòng sáng */
+.avatar-glow {
+  position: relative;
+  display: inline-block;
+}
+.avatar {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  border: 3px solid #ff4b6e;
+  box-shadow: 0 0 25px rgba(255, 100, 150, 0.5);
+  object-fit: cover;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.avatar:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 40px rgba(255, 100, 150, 0.8);
+}
+
+/* Hiệu ứng vòng sáng xoay */
+.avatar-glow::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: conic-gradient(from 0deg, #ff4b4b, #ffb84d, #ff4b4b);
+  filter: blur(12px);
+  animation: spin 6s linear infinite;
+  opacity: 0.3;
+  z-index: -1;
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ----- Tên và mô tả ----- */
+.name {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin: 1.5rem 0 0.4rem;
+  color: #aef4a6;
+  text-shadow: 0 0 8px rgba(150, 255, 180, 0.4);
+}
+.subtitle {
+  font-size: 1.15rem;
+  color: #ccc;
+  margin-bottom: 1.2rem;
+}
+
+/* ----- Nút hành động ----- */
+.home-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.3rem;
+}
+.btn {
+  padding: 10px 26px;
+  border-radius: 25px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.3);
+}
+.btn-primary {
+  background: linear-gradient(90deg, #ff4b4b, #ffb84d);
+  color: white;
+}
+.btn-primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(255, 100, 100, 0.6);
+}
+.btn-secondary {
+  background: #2f2f2f;
+  color: #eee;
+}
+.btn-secondary:hover {
+  background: #3a3a3a;
+  transform: translateY(-3px);
+}
+
+/* ----- Liên kết thông tin ----- */
+.links {
+  margin-top: 2rem;
+  font-size: 0.95rem;
+  color: #ccc;
+  text-align: center;
+}
+.links a {
+  color: #ff7f9e;
+  text-decoration: none;
+}
+.links a:hover {
+  color: #fff;
+  text-shadow: 0 0 8px #ff7f9e;
+}
+
+/* ----- SECTION DƯỚI ----- */
+.home-section {
+  max-width: 850px;
+  margin: 3rem auto;
+  text-align: center;
+  color: #ddd;
+  line-height: 1.7;
+}
+.home-section h2 {
+  color: #aef4a6;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+/* ----- Hiệu ứng xuất hiện ----- */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 1.2s ease forwards;
+}
+.fade-up {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s ease;
+}
+.fade-up.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+@keyframes fadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

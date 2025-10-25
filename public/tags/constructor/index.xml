@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Constructor on Lê Minh Quang</title>
+    <link>https://leeminhquang.github.io/blogcuaquang/tags/constructor/</link>
+    <description>Recent content in Constructor on Lê Minh Quang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>leeminhquang@gmail.com (Lê Minh Quang)</managingEditor>
+    <webMaster>leeminhquang@gmail.com (Lê Minh Quang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/constructor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>Lớp, Đối tượng và Hàm tạo trong Java</title>
+        <link>https://leeminhquang.github.io/blogcuaquang/posts/java-classes-objects/</link>
+        <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Sat, 25 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>https://leeminhquang.github.io/blogcuaquang/posts/java-classes-objects/</guid>
+        <description>&lt;h2 id=&#34;-1-khái-niệm-lớp-class-và-đối-tượng-object&#34;&gt;🧩 1. Khái niệm Lớp (Class) và Đối tượng (Object)&lt;/h2&gt;
+&lt;p&gt;Trong &lt;strong&gt;Java&lt;/strong&gt;, mọi thứ đều xoay quanh &lt;strong&gt;class&lt;/strong&gt; và &lt;strong&gt;object&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Class (lớp)&lt;/strong&gt; là &lt;strong&gt;bản thiết kế (blueprint)&lt;/strong&gt; mô tả thuộc tính và hành vi của một nhóm đối tượng.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Object (đối tượng)&lt;/strong&gt; là &lt;strong&gt;thực thể cụ thể (instance)&lt;/strong&gt; được tạo ra từ lớp.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ví dụ:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lớp &lt;code&gt;Student&lt;/code&gt; là khuôn mẫu, còn &lt;code&gt;Minh&lt;/code&gt;, &lt;code&gt;Lan&lt;/code&gt;, &lt;code&gt;Quang&lt;/code&gt; là các đối tượng của lớp đó.&lt;/p&gt;</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>OOP</category>
+            
+          
+            
+              <category>Class</category>
+            
+          
+            
+              <category>Object</category>
+            
+          
+            
+              <category>Constructor</category>
+            
+          
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+      </item>
+    
+  </channel>
+</rss>

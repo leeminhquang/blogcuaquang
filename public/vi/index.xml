@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0">
+  <channel>
+    <title>Lê Minh Quang</title>
+    <link>http://localhost:1313/vi/</link>
+    <description>Lê Minh Quang</description>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/vi/contact/</link>
+      <pubDate>Wed, 17 Dec 2025 23:58:33 &#43;0900</pubDate>
+      <guid>http://localhost:1313/vi/contact/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<script>
+  console.log("⚡ Custom.html is loaded!");
+  console.log("DEFAULT_THEME (raw Hugo):", "{{ .Site.Params.theme }}");
+  console.log("ALLOWED_THEMES (raw Hugo):", "{{ .Site.Params.themeOptions }}");
+
+  // === 1. Khai báo biến global an toàn ===
+  window.DEFAULT_THEME = "{{ .Site.Params.theme | default "dark" }}";
+  window.ALLOWED_THEMES = {{ .Site.Params.themeOptions | default (slice "dark" "light" "hacker" "solarized" "kimbie") | jsonify }};
+
+  // === 2. Lấy root & localTheme an toàn ===
+  var root = window.root || document.getElementById('root');
+  var localTheme = localStorage.getItem('theme') || window.DEFAULT_THEME;
+
+  // === 3. Áp dụng theme ===
+  if (root) {
+    if (!localTheme || localTheme === "undefined" || localTheme === "null") {
+      localTheme = window.DEFAULT_THEME;
+      localStorage.setItem('theme', localTheme);
+    }
+    root.className = 'theme__' + localTheme;
+    console.log("🎨 Applied theme:", localTheme);
+  } else {
+    console.warn("⚠️ Cannot find #root element");
+  }
+
+  // === 4. Hàm đổi theme toàn cục ===
+window.applyTheme = function(theme) {
+  theme = String(theme || "").toLowerCase();
+  if (!window.ALLOWED_THEMES.includes(theme)) {
+    console.warn("🚫 Invalid theme:", theme);
+    return;
+  }
+
+  // Cập nhật localStorage
+  localStorage.setItem('theme', theme);
+
+  // Xóa hết class theme__... trước khi thêm mới
+  if (root) {
+    root.classList.forEach(cls => {
+      if (cls.startsWith("theme__")) root.classList.remove(cls);
+    });
+    root.classList.add("theme__" + theme);
+  }
+
+  console.log("✅ Theme switched to:", theme);
+};
+
+</script>

@@ -1,0 +1,23 @@
+{{/* --- Footer ghi đè để loại bỏ JS cũ của Zzo và nạp thủ công --- */}}
+
+<footer>
+  <p style="text-align:center;margin-top:2rem;">
+    © {{ now.Year }} {{ .Site.Title }} — Powered by <a href="https://gohugo.io/">Hugo</a> & Zzo theme.
+  </p>
+</footer>
+
+{{/* --- Inject JS theme thủ công --- */}}
+<script>
+  window.DEFAULT_THEME  = {{ .Site.Params.theme | default "dark" | jsonify }};
+  window.ALLOWED_THEMES = {{ .Site.Params.themeOptions | default (slice "dark" "light") | jsonify }};
+</script>
+
+<script src="{{ "js/theme-manual.js" | absURL }}" defer></script>
+
+{{/* --- Ghi đè: loại bỏ các script cũ của Zzo --- */}}
+<script>
+  // Xóa mọi hàm setMetaColor cũ do theme cũ inject
+  if (typeof window.setMetaColor === "function" && window.setMetaColor.toString().includes("includes('dark')")) {
+    delete window.setMetaColor;
+  }
+</script>

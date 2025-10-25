@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Basics on Lê Minh Quang</title>
+    <link>https://leeminhquang.github.io/blogcuaquang/tags/basics/</link>
+    <description>Recent content in Basics on Lê Minh Quang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>leeminhquang@gmail.com (Lê Minh Quang)</managingEditor>
+    <webMaster>leeminhquang@gmail.com (Lê Minh Quang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://leeminhquang.github.io/blogcuaquang/tags/basics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>Giới thiệu và cú pháp cơ bản JavaScript</title>
+        <link>https://leeminhquang.github.io/blogcuaquang/posts/js-intro/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leeminhquang@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>https://leeminhquang.github.io/blogcuaquang/posts/js-intro/</guid>
+        <description>&lt;h2 id=&#34;-javascript-là-gì&#34;&gt;✨ JavaScript là gì?&lt;/h2&gt;
+&lt;p&gt;JavaScript (JS) là ngôn ngữ lập trình phía client, chạy trực tiếp trong trình duyệt để tạo website tương tác và động.&lt;br /&gt;
+Nó được sử dụng cùng &lt;strong&gt;HTML&lt;/strong&gt; và &lt;strong&gt;CSS&lt;/strong&gt; trong bộ ba công nghệ web.&lt;/p&gt;
+&lt;h3 id=&#34;-ứng-dụng-của-javascript&#34;&gt;🚀 Ứng dụng của JavaScript&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Xây dựng &lt;strong&gt;website động&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Front-end frameworks&lt;/strong&gt;: React, Vue, Angular&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Back-end&lt;/strong&gt;: Node.js&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Apps&lt;/strong&gt;: React Native&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI/ML web-based&lt;/strong&gt;: TensorFlow.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-cú-pháp-cơ-bản&#34;&gt;🔤 Cú pháp cơ bản&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Quang&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;age&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;21&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;sb&#34;&gt;`Xin chào &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;sb&#34;&gt;, bạn &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;age&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;sb&#34;&gt; tuổi.`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;-các-kiểu-dữ-liệu-chính&#34;&gt;📚 Các kiểu dữ liệu chính&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Kiểu&lt;/th&gt;
+          &lt;th&gt;Ví dụ&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;string&lt;/td&gt;
+          &lt;td&gt;&amp;ldquo;Hello&amp;rdquo;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;number&lt;/td&gt;
+          &lt;td&gt;42&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;boolean&lt;/td&gt;
+          &lt;td&gt;true / false&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;array&lt;/td&gt;
+          &lt;td&gt;[1,2,3]&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;object&lt;/td&gt;
+          &lt;td&gt;{name: &amp;ldquo;Quang&amp;rdquo;, age: 21}&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>JavaScript</category>
+            
+          
+            
+              <category>Basics</category>
+            
+          
+        
+        
+          
+            
+              <category>JavaScript</category>
+            
+          
+        
+        
+      </item>
+    
+  </channel>
+</rss>

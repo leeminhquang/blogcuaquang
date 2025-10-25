@@ -1,0 +1,197 @@
+logoText = "Quang's Blogs"
+logoType = "short"
+description = "Quang's Blog"
+custom_js = []
+custom_css = []
+useFaviconGenerator = true
+meta_image = ""
+themecolor = ""
+
+# Theme manual
+themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
+theme = "dark"
+
+# Home / lists
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+
+viewportSize = "normal"
+enableUiAnimation = true
+hideSingleContentsWhenJSDisabled = false
+enablePinnedPosts = true
+minItemsToShowInTagCloud = 1
+
+# Search
+enableSearch = true
+enableSearchHighlight = true
+searchResultPosition = "main"
+searchContent = true
+searchDistance = 100
+searchThreshold = 0.4
+
+# Appbar / header
+enableAppbarSearchIcon = false
+enableAppbarLangIcon = false
+homeHeaderType = "text"
+hideHomeHeaderWhenMobile = false
+
+# Menus / paginate
+showMobileMenuTerms = ["tags", "categories", "series"]
+enableBreadcrumb = true
+enableGoToTop = true
+enableWhoami = true
+summaryShape = "classic"
+archiveGroupByDate = "2006"
+archivePaginate = 13
+paginateWindow = 1
+talksPaginate = 5
+talksGroupByDate = "2006"
+pubPaginate = 20
+
+# Icons
+writtenTimeIcon = "📅"
+modifiedTimeIcon = "📝"
+readingTimeIcon = "☕"
+authorIcon = "✍️"
+pagePvIcon = "👀"
+pinIcon = "📌"
+tagIcon = "🏷️"
+publicationIcon = "📚"
+typeIcon = "🎯"
+
+# whoami
+myname = "Lê Minh Quang"
+email = "leeminhquang@gmail.com"
+whoami = "Sinh viên CNTT - An ninh mạng"
+bioImageUrl = ""
+useGravatar = false
+location = "Đà Nẵng, Việt Nam"
+organization = "Hugo Blog"
+link = "https://leeminhquang.github.io/blogcanhan/"
+
+# Sidebar
+enableBio = false
+enableBioImage = true
+enableSidebar = true
+enableSidebarTags = true
+enableSidebarSeries = true
+enableSidebarCategories = true
+enableHomeSidebarTitles = true
+enableListSidebarTitles = true
+enableToc = true
+hideToc = false
+tocFolding = true
+tocPosition = "inner"
+enableTocSwitch = true
+itemsPerCategory = 5
+sidebarPosition = "right"
+tocLevels = ["h2", "h3", "h4"]
+enableSidebarPostsByOrder = false
+
+# Footer
+showPoweredBy = true
+showFeedLinks = true
+showSocialLinks = true
+enableLangChange = true
+enableThemeChange = true  
+
+# Services
+googleTagManager = ""
+baiduAnalytics = false
+enableBusuanzi = false
+busuanziSiteUV = true
+busuanziSitePV = true
+busuanziPagePV = true
+
+# RSS
+updatePeriod = ""
+updateFrequency = ""
+fullContents = false
+
+# Comments
+enableComment = true
+disqus_shortname = ""
+commento = false
+
+[telegram]
+  enable = false
+  siteId = ""
+  dataLimit = 5
+
+[gitment]
+  owner = ""
+  repo = ""
+  clientId = ""
+  clientSecret = ""
+
+[utterances]
+  owner = ""
+  repo = ""
+
+[gitalk]
+  owner = ""
+  repo = ""
+  clientId = ""
+  clientSecret = ""
+
+[valine]
+  enable = false
+  appId = '你的appId'
+  appKey = '你的appKey'
+  notify = false
+  verify = false
+  avatar = 'mm'
+  placeholder = '说点什么吧...'
+  visitor = false
+
+[changyan]
+  changyanAppid = ""
+  changyanAppkey = ""
+
+[livere]
+  livereUID = ""
+
+[isso]
+  enable = false
+  scriptSrc = ""
+  dataAttrs = ""
+
+[socialOptions]
+  email = "mailto:leeminhquang@gmail.com"
+  facebook = "https://facebook.com/"
+  twitter = ""
+  github = "https://github.com/leeminhquang"
+  linkedin = ""
+  youtube = ""
+  instagram = ""
+  medium = ""
+  telegram = ""
+  weibo = ""
+  douban = ""
+  gitlab = ""
+  zhihu = ""
+  dev-to = ""
+
+[donationOptions]
+  enable = false
+  alipay = ""
+  wechat = ""
+  paypal = ""
+  patreon = ""
+
+[[share]]
+  name = "facebook"
+[[share]]
+  name = "twitter"
+
+[[footerLinks]]
+  name = ""
+  link = ""
+[[footerLinks]]
+  name = ""
+  link = ""
+
+
+
